@@ -11,7 +11,12 @@ Primary Code Contributers were Monica Michael, Derek Carmona, Alredo Covarrubias
 
 ![image](https://github.com/davidjackson323/ThermalCyclerVI/assets/19483270/561a3b7e-2ce6-429c-b18b-67fcbd7a1a14)
 
+![IMG-1747](https://github.com/davidjackson323/ThermalCyclerVI/assets/19483270/774998ff-57a5-4290-b05f-5cd4cb1ed207)
+
 ![image](https://github.com/davidjackson323/ThermalCyclerVI/assets/19483270/a6c37087-2b8a-4c8c-8765-2e5f492e31fa)
 
 ![IMG-2433](https://github.com/davidjackson323/ThermalCyclerVI/assets/19483270/031bc630-7664-448d-be55-a814757fc782)
+
+![IMG_20230802_193142_570](https://github.com/davidjackson323/ThermalCyclerVI/assets/19483270/317f1c95-c82d-4178-a10a-7646a38b1c2d)
+
 
