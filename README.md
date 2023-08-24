@@ -4,7 +4,7 @@ During the summer of 2023 the students at College of the Desert developed a cust
 
 Team Members: Pr. Michael Gariety, Alfredo Covarrubias, Derek Carmona, Luis ReyRey, Miguel Rodriguez, Monica Michael, Reza Abdoli, Yesenia Gonzalez and myself, David Jackson.
 
-Primary Code Contributers were Monica Michael, Derek Carmona, Alredo Covarrubias, and David Jackson. 
+Primary Code Contributers were Monica Michael, Derek Carmona, Alfredo Covarrubias, and David Jackson. 
 
 
 ![20230727_182524](https://github.com/davidjackson323/ThermalCyclerVI/assets/19483270/82e76c76-9e28-4a02-abbb-dd7e0dd520ad)
